@@ -6,8 +6,8 @@
 -> Notions abordées : fetch, liaisons sur du HTML, adaptations simples d'un template web <br>
 -> Langages utilisées : JS, HTML, CSS <br>
 -> Produit : il existe de nombreux comptes sur Instagram permettant de découvrir quelques informations biiographiques de femmes au parcours étonnant. Il s'agit, ici, sur une page web, d'avoir des présentations de portraits de femmes, liées à Paris. Peintres, photographes, cheffes, ministres, sportives ... Souvent invisibilisées, voire oubliées, Paris ne serait pas aussi riche sans elles. L'internaute a accès ainsi à quelques faits sur chacune, au hasard, mais aussi à une carte d'ensemble. <br>
--> Améliorations :
 
-    quelques points de graphismme et détails (ex: certains portraits se terminent par "undefined" malgré notre sléection dans le script APIFetch)
-    plus d'accessibilité (bouton "pause")
-    marqueurs avec noms sur la carte
+-> Améliorations possibles : <br>
+    - quelques points de graphismme et détails (ex: certains portraits se terminent par "undefined" malgré notre sléection dans le script APIFetch) <br>
+    - plus d'accessibilité (bouton "pause") <br>
+    - marqueurs avec noms sur la carte <br>
